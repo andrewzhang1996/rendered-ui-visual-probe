@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rendered UI Visual Probe"
+  short_description: "Measure rendered UI screenshot evidence"
+  default_prompt: "Use $rendered-ui-visual-probe to diagnose a UI screenshot with measurable visual evidence."
